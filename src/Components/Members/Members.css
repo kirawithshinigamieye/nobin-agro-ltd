@@ -1,0 +1,27 @@
+.small-line{
+    background-color: black;
+    padding-top: 2px;
+    width: 540px;
+}
+.member-card{
+    width: 600px;
+    height: 580px;
+    background-color: #46a90813;
+    margin-top: 50px;
+    border-radius: 10px;
+}
+.member-img{
+    padding: 30px;
+}
+.members{
+    display: grid;
+    grid-template-columns: repeat(2 ,1fr);
+    padding-top: 50px;
+    justify-items: center;
+}
+.member-all{
+    padding: 12px 50px;
+    background-color: #46A908;
+    color: white;
+    font-size: 34px;
+}

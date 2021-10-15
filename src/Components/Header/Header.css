@@ -1,0 +1,18 @@
+header{
+    background-color: #46A908;
+    width: 2147px;
+    height: 120px;
+    background-repeat: no-repeat;
+    font-family: siraji;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+}
+.link{
+    text-decoration: none;
+    color: white;
+    margin-right: 20px;
+}
+.links{
+    margin-top: 46px;
+}

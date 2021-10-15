@@ -1,0 +1,38 @@
+*{
+    font-family: siraji;
+}
+.carousel-img{
+    width: 1440px;
+    height: 720px;
+}
+.carousel-btn{
+    padding: 19px 76px;
+    background-color: #46A908;
+    color: white;
+    margin-top: 50px;
+}
+.carousel{
+    margin-top: 120px;
+}
+#myCarousel-indicators{
+    border-radius: 50%;
+    height: 20px;
+    width: 20px;
+  }
+  
+  @media (max-width: 768px) { 
+      .carousel-btn{
+        padding: 10px 20px;
+        margin-top: 10px;
+      }
+      .carousel-img{
+        width: 1024px;
+        height: 420px;
+      }
+   }
+   @media (min-width: 1200px) {
+       .carousel-img{
+        width: 1024px;
+        height: 555px;
+      }
+   }

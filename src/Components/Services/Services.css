@@ -1,0 +1,24 @@
+*{
+    font-family: siraji;
+
+}
+.small-line{
+    background-color: black;
+    padding-top: 2px;
+    width: 340px;
+}
+
+.service-animation{
+    width: 222.46px;
+    height: 175px;
+}
+.services{
+    margin-top: 100px;
+}
+.service-card{
+    margin: 45px;
+}
+.service-link{
+    text-decoration: none;
+    color: black;
+}

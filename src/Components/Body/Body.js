@@ -1,9 +1,10 @@
 import React from 'react';
+import './Body.css';
 
 const Body = () => {
     return (
-        <div>
-            <h1>This is body</h1>
+        <div className="body-part">
+            <h1>এটা বডি</h1>
         </div>
     );
 };
